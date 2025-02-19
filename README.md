@@ -127,4 +127,4 @@ The `spkrec-xvect-voxceleb` model is pre-trained on the **VoxCeleb dataset**, wh
 4. **If similarity > threshold, the speaker is recognized.**
 5. **The model is pre-trained on the VoxCeleb dataset for high accuracy.**
 
-This model provides a **powerful and efficient way** to perform **speaker recognition**! 🚀 Let me know if you need further clarification! 🎤
+ 🚀 This model provides a **powerful and efficient way** to perform **speaker recognition**! 🎤 
